@@ -1,4 +1,4 @@
 # Blazer-Laser
 Galaga inspired endless shooter
 
-![](https://github.com/AymenAbb/Blazer-Laser/blob/main/record.gif =240x522)
+<img src="https://github.com/AymenAbb/Blazer-Laser/blob/main/record.gif" width="240" height="522"/>
